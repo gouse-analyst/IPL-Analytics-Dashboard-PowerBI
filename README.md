@@ -8,7 +8,7 @@ An end-to-end **Power BI Dashboard** that provides interactive insights into the
 
 > Replace the image path below with your uploaded screenshot.
 
-![IPL Dashboard](images/dashboard.png)
+![IPL Dashboard](Screenshots/Final Dashboard.png)
 
 ---
 
