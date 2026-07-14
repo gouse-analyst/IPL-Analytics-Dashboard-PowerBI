@@ -124,8 +124,19 @@ Some of the custom DAX measures used include:
 - Matches Won
 - Matches Lost
 - Total Points
+- season winner
+- season winner team logo
+- runner up
+- runner up team logo
 - Orange Cap Holder
+- Orange Cap Holder runs
+- Orange Cap Holder team name
+- Orange Cap Holder image
 - Purple Cap Holder
+- Purple Cap Holder name
+- Purple Cap Holder wickts
+- Purple Cap Holder logo
+- Purple Cap Holder team name
 - Most Sixes
 - Most Fours
 - Total Matches
@@ -133,18 +144,22 @@ Some of the custom DAX measures used include:
 - Total Venues
 - Half Centuries
 - Centuries
+- Top six count
+- Top four count
 
 ---
 
 # 📊 Interactive Features
 
+--full dashboard and every kpi and chart is dynamic
+
 - Dynamic Season Slicer (2008–2025)
-- Interactive KPI Cards
-- Team Logos
-- Player Images
+- Dynamic Interactive KPI Cards
+- Dynamic Team Logos
+- Dynamic Player Images
 - Dynamic Points Table
 - Responsive Visuals
-- Professional Dashboard Design
+- Professional Dashboard Design with everything dynamic
 
 ---
 
@@ -153,35 +168,13 @@ Some of the custom DAX measures used include:
 - Data Cleaning
 - Data Transformation
 - Data Modeling
+- creating relationships
 - DAX
 - Power Query
 - Dashboard Design
 - Business Intelligence
 - Data Visualization
 - Interactive Reporting
-
----
-
-# 📁 Repository Structure
-
-```
-IPL-Analytics-Dashboard-PowerBI
-│
-├── README.md
-├── IPL_Dashboard_Data_Analysis.pbix
-│
-├── images
-│   └── dashboard.png
-│
-├── data
-│   ├── ipl_matches_data.csv
-│   ├── ball_by_ball_data.csv
-│   ├── teams_data.csv
-│   └── players_data.csv
-│
-└── docs
-    └── Project_Report.pdf
-```
 
 ---
 
@@ -210,5 +203,7 @@ IPL-Analytics-Dashboard-PowerBI
 **Syed Gouse Ahamad**
 
 - GitHub: https://github.com/gouse-analyst
+  
+- https://www.linkedin.com/in/syed-gouse-ahamad-72837388282222333434324245454545/
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
